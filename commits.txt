@@ -2,4 +2,4 @@
 
 GIT Branching and Merging Assignment for DGM-1660-001
 
-first commit in the branch 3
+second commit in the branch 3

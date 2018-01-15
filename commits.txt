@@ -1,3 +1,0 @@
-GIT Commits Assignment for DGM-1660-001
-
-commit 30

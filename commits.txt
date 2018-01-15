@@ -1,3 +1,5 @@
-GIT Commits Assignment for DGM-1660-001
+// GIT Commits Assignment for DGM-1660-001
 
-commit 30
+GIT Branching and Merging Assignment for DGM-1660-001
+
+first commit in the branch 3
